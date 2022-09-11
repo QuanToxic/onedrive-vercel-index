@@ -53,8 +53,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Discord',
+      link: 'Quân Toxic#9419',
     },
     {
       name: 'Telegram',
