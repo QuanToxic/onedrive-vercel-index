@@ -54,11 +54,15 @@ module.exports = {
   links: [
     {
       name: 'Discord',
-      link: 'Quân Toxic#9419',
+      link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/QuanToxic',
+      link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    },
+   {
+      name: 'Onedrive',
+      link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
     },
   ],
 
